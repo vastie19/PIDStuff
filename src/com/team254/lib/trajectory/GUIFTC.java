@@ -252,6 +252,7 @@ public class GUIFTC extends JFrame implements ActionListener,MouseListener{
                         kWheelbaseWidth, path_name);
             }
 
+            
             repaint();
 
                 //feedback.setText(String.valueOf(test.Segments.size()));
